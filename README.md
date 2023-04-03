@@ -4,20 +4,17 @@ these beginner-friendly Python projects that are designed to help developers lea
 ## Projects
 Here is the list of projects included in this repository:
 
-Guess the Number Game
-Rock, Paper, Scissors Game
-Simple Calculator
-Password Generator
-Mad Libs Generator
-Dice Rolling Simulator
-Hangman Game
-Tic Tac Toe Game
-Currency Converter
-Random Password Generator
-Unit Converter
-Alarm Clock
-Random Quotes Generator
-Binary to Hexadecimal Converter
-Random Jokes Generator
-Hangman Game with Word Bank
-Palindrome Checker
+1. Guess the Number Game
+2. Rock, Paper, Scissors Game
+3. Simple Calculator
+4. Password Generator
+5. Mad Libs Generator
+6. Dice Rolling Simulator
+7. Hangman Game
+8. Tic Tac Toe Game
+9. Currency Converter
+10. Unit Converter
+11. Alarm Clock
+12. Random Quotes Generator
+13.Random Jokes Generator
+14. Palindrome Checker
