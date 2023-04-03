@@ -16,5 +16,5 @@ Here is the list of projects included in this repository:
 10. Unit Converter
 11. Alarm Clock
 12. Random Quotes Generator
-13.Random Jokes Generator
-14. Palindrome Checker
+13. Palindrome Checker
+14. Binary to Hexadecimal Convertor
